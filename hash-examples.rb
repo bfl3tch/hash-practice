@@ -6,3 +6,8 @@ animal_model = {
 "species" => "giraffe"
 
 }
+
+customer_name = {
+"person" => "John"
+  
+}
